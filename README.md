@@ -1,6 +1,6 @@
 # FXGL_Pong
 
-This repository represents my fist tests with the FXGL Game Engine.
+This repository represents my first tests with the FXGL Game Engine.
 
 Simple pong clone.
 
