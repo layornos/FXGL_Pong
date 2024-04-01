@@ -9,7 +9,7 @@
 plugins {
 	id "application"
 	id 'org.openjfx.javafxplugin' version '0.0.10'
-	id "com.diffplug.spotless" version "5.15.2"
+	id "com.diffplug.spotless" version "5.17.1"
 }
 
 repositories {
@@ -22,7 +22,7 @@ dependencies {
 	implementation 'com.github.almasb:fxgl:11.17'
 	testImplementation 'org.junit.jupiter:junit-jupiter:5.8.1'
 	implementation 'com.google.guava:guava:31.0-jre'
-	implementation 'com.diffplug.spotless:spotless-maven-plugin:2.14.0'
+	implementation 'com.diffplug.spotless:spotless-maven-plugin:2.43.0'
 	//errorprone("com.google.errorprone:error_prone_core:2.7.1")
 }
 
