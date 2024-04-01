@@ -19,7 +19,7 @@ repositories {
 }
 
 dependencies {
-	implementation 'com.github.almasb:fxgl:11.17'
+	implementation 'com.github.almasb:fxgl:21.1'
 	testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
 	implementation 'com.google.guava:guava:31.1-jre'
 	implementation 'com.diffplug.spotless:spotless-maven-plugin:2.43.0'
