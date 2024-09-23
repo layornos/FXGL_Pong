@@ -21,7 +21,7 @@ repositories {
 dependencies {
 	implementation 'com.github.almasb:fxgl:11.17'
 	testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
-	implementation 'com.google.guava:guava:31.1-jre'
+	implementation 'com.google.guava:guava:33.3.1-jre'
 	implementation 'com.diffplug.spotless:spotless-maven-plugin:2.43.0'
 	//errorprone("com.google.errorprone:error_prone_core:2.7.1")
 }
